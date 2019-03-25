@@ -1,1 +1,0 @@
-# Git-Tutoiral-DevOps
